@@ -19,5 +19,6 @@ const othernumber = 123.576;
 
 //console.log(Math);
 console.log(Math.random());
+console.log(Math.random()*10)+1;
 
 
